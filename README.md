@@ -1,15 +1,18 @@
 <div align="center">
 
+<!-- 上方爱心 -->
 <div>
   💗 &nbsp;&nbsp; 💕 &nbsp;&nbsp;&nbsp; 💖
 </div>
 
 <table>
   <tr>
+    <!-- 左边 GIF -->
     <td style="padding-right: 25px;">
       <img src="./希望影像~.gif" width="350">
     </td>
 
+    <!-- 右边“打字机” -->
     <td>
       <div style="
         height: 350px;
@@ -43,6 +46,7 @@
   </tr>
 </table>
 
+<!-- 下方爱心 -->
 <div>
   💘 &nbsp;&nbsp;&nbsp; 💞 &nbsp;&nbsp; 💓
 </div>
